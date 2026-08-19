@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-flilm0.keitaro-tech-rtb.online/sitemap.xml
